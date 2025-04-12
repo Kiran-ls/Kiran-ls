@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Kiran<br>A passionate developer from India.
+                                                                Hi I'm Kiran<br><b>A passionate developer from India.</b>
 
 
 ## 🌐 Socials: 
