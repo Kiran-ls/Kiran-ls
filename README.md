@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-ls&show_icons=true&theme=default" alt="Kiran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-ls&show_icons=true&theme=default" alt="Kiran's GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-ls&theme=default" alt="Kiran's GitHub Streak" />
 </p>
 
