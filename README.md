@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Kiran</strong></h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kiran-ls&label=Profile%20views&color=0e75b6&style=flat" alt="Kiran-ls" />
@@ -9,9 +9,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Java Full-Stack**
 - 💬 Ask me about **React, JavaScript, Java**
-- 📫 How to reach me: [kiranls.dev@gmail.com](mailto:kiranls.dev@gmail.com)
+- 📫 How to reach me: [kiranls759@gmail.com](mailto:kiranls759@gmail.com)
 - ⚡ Fun fact: I love learning new tech and building cool UIs!
 
 ---
@@ -19,11 +19,11 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Kiran-ls" target="_blank">
+  <a href="https://www.linkedin.com/in/kiran-ls-8622b524a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://x.com/Kiran_v75" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
@@ -33,6 +33,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -45,13 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-ls&show_icons=true&theme=radical" alt="Kiran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-ls&show_icons=true&theme=radical" alt="Kiran's GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-ls&theme=radical" alt="Kiran's GitHub Streak" />
 </p>
 
 ---
-
-### ✨ Top Projects
-
-- [Project 1](https://github.com/Kiran-ls/project1) - A full-stack job portal
-- [Project 2](https://github.com/Kiran-ls/project2) - React Quiz App
