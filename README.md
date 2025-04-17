@@ -1,5 +1,6 @@
-<p align="center"># 💫 About Me:</p>
-<p align = "center"><b>Hi I'm Kiran<br>A passionate developer from India.</b></p>
+<p <h1 align="center">Hi 👋, I'm Kiran</h1>
+<h3 align="center">A Passionate Developer From India</h3>
+
 
 
 ## 🌐 Socials: 
