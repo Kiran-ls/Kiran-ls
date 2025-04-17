@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Kiran LS](https://www.linkedin.com/in/kiran-ls-8622b524a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkehHQcMNQ2enOoiRKupBtw%3D%3D)) 
+([https://linkedin.com/in/Kiran LS](https://www.linkedin.com/in/kiran-ls-8622b524a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkehHQcMNQ2enOoiRKupBtw%3D%3D)) 
 
 
 # 💻 Tech Stack:
