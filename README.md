@@ -1,21 +1,57 @@
-<h1 align="center"><strong>Hi 👋, I'm Kiran</strong></h1>
-<h3 align="center">A Passionate Developer From India</h3>
+<h1 align="center">Hi 👋, I'm <strong>Kiran</strong></h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-
-
-
-## 🌐 Socials: 
-([https://linkedin.com/in/Kiran LS](https://www.linkedin.com/in/kiran-ls-8622b524a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkehHQcMNQ2enOoiRKupBtw%3D%3D)) 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=mysql&logoColor=white)  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kiran-ls&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kiran-ls&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-ls&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kiran-ls&label=Profile%20views&color=0e75b6&style=flat" alt="Kiran-ls" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kiran-ls&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **Spring Boot**
+- 💬 Ask me about **React, JavaScript, Java**
+- 📫 How to reach me: [kiranls.dev@gmail.com](mailto:kiranls.dev@gmail.com)
+- ⚡ Fun fact: I love learning new tech and building cool UIs!
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/Kiran-ls" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-ls&show_icons=true&theme=radical" alt="Kiran's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-ls&theme=radical" alt="Kiran's GitHub Streak" />
+</p>
+
+---
+
+### ✨ Top Projects
+
+- [Project 1](https://github.com/Kiran-ls/project1) - A full-stack job portal
+- [Project 2](https://github.com/Kiran-ls/project2) - React Quiz App
