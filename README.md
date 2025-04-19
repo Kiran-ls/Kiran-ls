@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Java Full-Stack**
 - 💬 Ask me about **React, JavaScript, Java**
 - 📫 How to reach me: [kiranls759@gmail.com](mailto:kiranls759@gmail.com)
-- ⚡ Fun fact: I love learning new tech and building cool UIs!
 
 ---
 
