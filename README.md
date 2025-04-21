@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Java Full-Stack**
-- 💬 Ask me about **React, JavaScript, Java**
+- 🌱 I’m currently learning **Java Full-Stack.**
+- 💬 Ask me about **React, JavaScript, Java.**
 - 📫 How to reach me: [kiranls759@gmail.com](mailto:kiranls759@gmail.com)
 
 ---
