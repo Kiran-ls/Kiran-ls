@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 Full Stack Developer.**
+- 🌱 Full Stack Developer.
 - 💬 Ask me about **React, Spring Boot, Java.**
 - 📫 How to reach me: [kiranls759@gmail.com](mailto:kiranls759@gmail.com)
 
