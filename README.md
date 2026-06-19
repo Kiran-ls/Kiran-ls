@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 Full Stack Developer.
-- 💬 Ask me about **React, Spring Boot, Java.**
+- 💬 Ask me about **React, Spring Boot, Java, MySQL**
 - 📫 How to reach me: [kiranls759@gmail.com](mailto:kiranls759@gmail.com)
 
 ---
